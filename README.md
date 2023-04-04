@@ -1,6 +1,6 @@
 # Net Tester
 Prosta aplikacja wyświetlająca aktualne opóźnienie połączenia internetowego w ms.
-Program zapisuje historię wyników do plików w folderze tests
+Program zapisuje historię wyników do plików w folderze tests.
 
 ## Instalacja
 
