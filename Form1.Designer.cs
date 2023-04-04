@@ -126,7 +126,7 @@ namespace Net_Tester
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(150, 36);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Net Tester v2.6.5";
+            this.label1.Text = "Net Tester v1.0.0";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // MainPanel
